@@ -2,7 +2,7 @@
 My Pytorch implementation of a Neural Turing Machine with bidirectional LSTM controller
 
 ## Credit
-The sources I used for general guidance and some parts of the code:
+The sources I used for inspiration, general guidance and some parts of the code:
 
 - https://github.com/nerdimite/ntm
 - https://github.com/loudinthecloud/pytorch-ntm/tree/master
